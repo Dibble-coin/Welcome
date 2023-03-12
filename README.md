@@ -1,9 +1,8 @@
- ![DibbleCoin](https://avatars.githubusercontent.com/u/127641386?s=200&v=4) 
-
-
+<h1 align="center">
+<img width="320" src="https://raw.githubusercontent.com/Dibble-coin/Welcome/main/logo.svg" /> 
 
 # **DibbleCoin** will revolutionize environmental preservation.
-
+</h1>
 > Originally created in 2009, **Plant your Seed&copy;** was designed as a project to protect the environment, but lacked the financial capacity to make it work globally. With the advent of Bitcoin and other digital currencies however, boundaries have been eliminated and allowing for worldwide implementation of **Plant your Seed&copy;** has become easier. Thus, **DIBBLECOIN** came into being - merging a key objective: environmental conservation - with cryptocurrencie's technological capabilities.
 
 
