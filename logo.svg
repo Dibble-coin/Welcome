@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="787" height="260" viewBox="0 0 787 260">
+  <g id="Grupo_7" data-name="Grupo 7" transform="translate(-67 -355)">
+    <g id="Grupo_5" data-name="Grupo 5" transform="translate(47 334.585)">
+      <text id="Dibble" transform="translate(273 213.415)" fill="#05807b" font-size="191" font-family="Nunito-Bold, Nunito" font-weight="700" letter-spacing="-0.04em"><tspan x="0" y="0">Dibble</tspan></text>
+    </g>
+    <g id="Grupo_6" data-name="Grupo 6">
+      <circle id="Elipse_2" data-name="Elipse 2" cx="115" cy="115" r="115" transform="translate(67 371)" fill="#05807b"/>
+      <g id="Grupo_3" data-name="Grupo 3" transform="translate(-3.54 297.279)">
+        <path id="rgba_6_6_6_1_" data-name="rgba(6,6,6,1)" d="M232.133,123.358c6.855.577,12.5,5.488,12.643,12.923s-5.191,14.65-11.94,14.431-85,.63-90.366-.664-9.933-3.618-10.358-11.594,2.153-12.111,12.77-15.152S225.277,122.781,232.133,123.358Z" transform="translate(-2.528 -4.108)" fill="#f4f4f4"/>
+        <path id="rgba_6_6_6_1_2" data-name="rgba(6,6,6,1)" d="M205.81,175.869q2.431-.54,2.972.811v56.193l-.81.81-1.081.54L205,232.872V176.679Z" transform="translate(-32.883 -23.953)" fill="#f4f4f4"/>
+        <path id="rgba_6_6_6_1_3" data-name="rgba(6,6,6,1)" d="M249.54,175.83q2.485-.648,3.242.811v56.193l-.81.81-1.081.54L249,232.834V177.181Z" transform="translate(-53.109 -23.915)" fill="#f4f4f4"/>
+        <path id="rgba_6_6_6_1_4" data-name="rgba(6,6,6,1)" d="M205.891,289h24.854l1.351.339.54.848v22.382L221.29,332.916l-2.431,3.222-1.891-.509L204,312.569V290.187l.54-.848Z" transform="translate(-32.423 -76.029)" fill="#f4f4f4"/>
+      </g>
+    </g>
+  </g>
+</svg>
